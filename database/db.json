@@ -1,0 +1,72 @@
+{
+  "user": [
+    {
+      "id": "abe7",
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "f189",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "36a4",
+      "name": "Saw",
+      "email": "saw@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "f13a",
+      "name": "Test",
+      "email": "test@gmail.com",
+      "password": "123"
+    }
+  ],
+  "resturant": [
+    {
+      "id": "1",
+      "name": "Burger King",
+      "contact": "1231232",
+      "address": "Some random Address"
+    },
+    {
+      "id": "2",
+      "name": "McDonald",
+      "contact": "1442332",
+      "address": "Las Santo"
+    },
+    {
+      "id": "3",
+      "name": "KFC",
+      "address": "Thingangyun",
+      "contact": "1234512"
+    },
+    {
+      "id": "4",
+      "name": "KFC",
+      "address": "Thingangyun",
+      "contact": "1234512"
+    },
+    {
+      "id": "5",
+      "name": "KFC",
+      "address": "Thingangyun",
+      "contact": "1234512"
+    },
+    {
+      "id": "6",
+      "name": "Super One",
+      "address": "Mandalay",
+      "contact": "1293721"
+    },
+    {
+      "id": "7",
+      "name": "Ocean",
+      "address": "Tamwe",
+      "contact": "0987642312"
+    }
+  ]
+}
